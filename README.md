@@ -31,3 +31,16 @@ Idag började jag ändra i hemsida-koden i Visual studio Code för att för att 
 Jag vill fortsätta och eventuellt bli klar med grunfunktionerna i Python-projektet. Jag ska fortsätta med hemsidan för bilen.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+# Driverbot
+Projektet handlar om en handbyggd lego-bil konstuerad av tekniklego. Bilen ska kunnas köras från en hemsida och på denna ska man kunna ange fram, bak, hastighet och svängning. Detta gör bilen elektroniskt med ett Arduinokort och motorer. Motorerna styrs med kortet som sedan är laddad med drivrutiner. Dessa är mikroprosessorkoden vilket kommunicerar med MQTT och då samtidigt hemsidan. Allt detta görs via olika koder eller "medelanden" som skickas från hemsidan hela vägen till Arduino. Meddelandena kan exempel vara F500 som tas in och omvandlas till "framåt" med hastigheten "500".
+# Hitta
+
+
+## Planering
+
+## Utvärdering
+### Det jag hade gjort annorlunda:
+
+### Problem jag stötte på:
+
+### Hur gick det?
